@@ -1,7 +1,7 @@
 
 # Claudio Gomes.
 
-### - Alumni Data Analyst @ Ironhack Bootcamp Lisbon.
-### - On learning Python / SQL / Machine Learning / Descriptive Statistics.
-### - shouldbeclaudio@gmail.com
+### - :zap: Alumni Data Analyst @ Ironhack Bootcamp Lisbon.
+### - :zap: On learning Python / SQL / Machine Learning / Descriptive Statistics.
+### - :zap: shouldbeclaudio@gmail.com
 
